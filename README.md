@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam HACHIMI</h1>
 <h3 align="center">A full stack AI Developer building apps that disrupt</h3>
+<h4 align="center">I've participated at some of the biggest AI hackathons in Europe and I've won on one</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-green1337&label=Profile%20views&color=0e75b6&style=flat" alt="mr-green1337" /> </p>
 
