@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Islam HACHIMI</h1>
-<h3 align="center">A full stack AI Developer building apps that disrupt</h3>
+<h3 align="center">A full stack AI Developer aiming to build apps that disrupt</h3>
 <h4 align="center">I've participated at some of the biggest AI hackathons in Europe and I've won at one</h4>
 <h4 align="center">Here's what I can do:</h4>
 <ul align="center">
