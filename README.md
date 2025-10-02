@@ -1,3 +1,3 @@
 # Islam HACHIMI
 
-AI Engineer building autonomous agents and LLM-powered applications.
+Applied AI Engineer building autonomous agents and LLM-powered applications.
